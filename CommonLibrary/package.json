@@ -1,0 +1,13 @@
+{
+  "name": "com.chickstar.commonlib",
+  "version": "0.0.1",
+  "displayName": "ChickStar Common Library",
+  "description": "ChickStar Common Library",
+  "unity": "2022.3",
+  "author": {
+    "name": "雛星"
+  },
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0"
+  }
+}

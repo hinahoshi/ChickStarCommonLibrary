@@ -1,0 +1,19 @@
+{
+    "name": "ChickStar.CommonLibrary.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b83d7618c5f3a4847b87a2cbbb37d9bc",
+        "GUID:fe85bcfc1b2e43bdb2bfe3f9f4c4b943"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

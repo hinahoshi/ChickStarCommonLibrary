@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32535e3305284a98bcc7a9bdfdea6c30, type: 3}
+  m_Name: MessageContentsCatalog
+  m_EditorClassIdentifier: 
+  contentsArray:
+  - {fileID: 5219404921219305678}
+  - {fileID: 428681909948037253}
+--- !u!114 &428681909948037253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f21334e57dc4283b1e165884587ae46, type: 3}
+  m_Name: En
+  m_EditorClassIdentifier: 
+  language: 1
+  contents:
+  - key: UINavigation.UIControlNotFound
+    body: UIControlNotFound
+  - key: Settings.Language
+    body: "\u8A00\u8A9E"
+--- !u!114 &5219404921219305678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f21334e57dc4283b1e165884587ae46, type: 3}
+  m_Name: Ja
+  m_EditorClassIdentifier: 
+  language: 0
+  contents:
+  - key: UINavigation.UIControlNotFound
+    body: "UI\u30B3\u30F3\u30C8\u30ED\u30FC\u30EB\u304C\u8FFD\u52A0\u3055\u308C\u3066\u3044\u307E\u305B\u3093"
+  - key: Settings.Language
+    body: Language

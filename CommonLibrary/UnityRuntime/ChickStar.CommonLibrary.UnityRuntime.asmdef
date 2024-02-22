@@ -1,0 +1,17 @@
+{
+    "name": "ChickStar.CommonLibrary.UnityRuntime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fe85bcfc1b2e43bdb2bfe3f9f4c4b943",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
